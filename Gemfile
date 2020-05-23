@@ -14,7 +14,7 @@ gem 'httparty'
 gem 'jquery-rails'
 gem 'json-schema', require: true
 gem 'pg'
-gem 'puma'
+gem 'puma', '>= 3.12.6'
 gem 'rails', '~>4.2.7'
 gem 'sysrandom', require: "sysrandom/securerandom"
 gem 'uglifier'
